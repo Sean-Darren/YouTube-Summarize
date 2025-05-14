@@ -28,7 +28,7 @@ This tool extracts video metadata, fetches English transcripts, and uses OpenAI 
 2.**Set Up OpenAI API Key**
 
   ```bash
-  export OPENAI_API_KEY="your-api-key"
+    export OPENAI_API_KEY="your-api-key"
   ```
 3. **Run the Summarizer**
 
