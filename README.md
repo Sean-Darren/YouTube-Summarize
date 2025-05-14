@@ -20,21 +20,9 @@ This tool extracts video metadata, fetches English transcripts, and uses OpenAI 
 
 ## 🚀 Usage
 
-1. **Install Dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-2.**Set Up OpenAI API Key**
-
-  ```bash
-    export OPENAI_API_KEY="your-api-key"
-  ```
-3. **Run the Summarizer**
-
-   ```bash
-   python main.py
-   ```
+- **1. Install Dependencies**: `pip install -r requirements.txt`  
+- **2. Set API Key**: `export OPENAI_API_KEY="your-api-key"`  
+- **3. Run**: `python main.py`  
 
 You will be prompted to enter:
 - The YouTube video URL
